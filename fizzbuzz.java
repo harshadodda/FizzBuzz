@@ -17,3 +17,5 @@ while (k < 100){
         else
           System.out.format("%d",k);
 }
+
+//and i pray to god to kiss uuuuuuuuuuu
