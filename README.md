@@ -1,1 +1,1 @@
-classic fizzbuzz problem solved in java 
+Classic fizzbuzz problem solved in java 
